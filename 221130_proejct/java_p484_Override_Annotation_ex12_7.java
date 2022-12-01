@@ -14,7 +14,7 @@ class Child extends Parent {
     }
 }
 
-public class java_p484_Generics_Override_Annotation_ex12_7 {
+public class java_p484_Override_Annotation_ex12_7 {
 
     public static void main(String[] args) {
 

@@ -2,7 +2,7 @@ enum Direction {
     EAST, SOUTH, WEST, NORTH
 }
 
-public class java_p478_Generics_Enum_ex12_5 {
+public class java_p478_Enum_ex12_5 {
 
     public static void main(String[] args) {
         Direction d1 = Direction.EAST;

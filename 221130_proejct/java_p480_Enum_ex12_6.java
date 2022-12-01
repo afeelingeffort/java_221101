@@ -39,7 +39,7 @@ enum Direction2 {
     }
 }
 
-public class java_p480_Generics_Enum_ex12_6 {
+public class java_p480_Enum_ex12_6 {
 
     public static void main(String[] args) {
         for (Direction2 d : Direction2.values())
